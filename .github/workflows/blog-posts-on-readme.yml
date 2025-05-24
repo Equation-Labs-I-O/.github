@@ -1,4 +1,4 @@
-name: Hasnode Blog Posts
+name: Show Hasnode Blog Posts on Readme
 on:
   schedule:
     # Runs every 6 hours of the day
